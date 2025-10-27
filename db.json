@@ -1,0 +1,84 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "title": "Laptop",
+      "description": "MacBook Air M2, lightweight and powerful",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+      "price": 1200,
+      "createdAt": "2025-10-01T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Headphones",
+      "description": "Noise-cancelling over-ear headphones",
+      "image": "https://images.unsplash.com/photo-1545127398-14699f92334b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870",
+      "price": 300,
+      "createdAt": "2025-09-25T09:15:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Smartwatch",
+      "description": "Tracks heart rate, sleep and workouts",
+      "image": "https://images.unsplash.com/photo-1637160151663-a410315e4e75?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+      "price": 250,
+      "createdAt": "2025-09-20T15:30:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "Camera",
+      "description": "Mirrorless camera with 4K video",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=928",
+      "price": 950,
+      "createdAt": "2025-09-10T12:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "Gaming Chair",
+      "description": "Ergonomic chair with lumbar support",
+      "image": "https://plus.unsplash.com/premium_photo-1682141878168-5dace8e1785d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1742",
+      "price": 400,
+      "createdAt": "2025-09-05T17:45:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Electric Guitar",
+      "description": "Fender Stratocaster classic electric guitar",
+      "image": "https://images.unsplash.com/photo-1607560105214-0aaa5f8fcba4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870",
+      "price": 800,
+      "createdAt": "2025-08-30T14:20:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Coffee Machine",
+      "description": "Automatic espresso machine with milk frother",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "price": 500,
+      "createdAt": "2025-08-25T09:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "title": "Desk Lamp",
+      "description": "Adjustable LED desk lamp with dimmer",
+      "image": "https://plus.unsplash.com/premium_photo-1681223965653-5d20efd0b86c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+      "price": 80,
+      "createdAt": "2025-08-22T08:45:00.000Z"
+    },
+    {
+      "id": "9",
+      "title": "Mechanical Keyboard",
+      "description": "RGB backlit 87-key mechanical keyboard",
+      "image": "https://images.unsplash.com/photo-1558050032-160f36233a07?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1740",
+      "price": 150,
+      "createdAt": "2025-08-18T18:10:00.000Z"
+    },
+    {
+      "id": "10",
+      "title": "Smartphone",
+      "description": "Latest generation smartphone with OLED display",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "price": 1100,
+      "createdAt": "2025-08-10T11:00:00.000Z"
+    }
+  ]
+}
